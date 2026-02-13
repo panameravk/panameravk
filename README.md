@@ -78,24 +78,16 @@ I care about **clean architecture**, **beautiful UI**, and **scalable systems**.
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=panameravk&show_icons=true&theme=radical&hide_border=true"
-    alt="GitHub stats"
+    src="https://github-readme-stats.vercel.app/api?username=panameravk&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="180"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=panameravk&layout=compact&theme=radical&hide_border=true"
-    alt="Top languages"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=panameravk&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800"
+    height="180"
   />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://github.com/panameravk/panameravk/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
