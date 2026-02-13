@@ -26,7 +26,6 @@ I care about **clean architecture**, **beautiful UI**, and **scalable systems**.
 
 ## 🛠 Tech Stack
 
----
 
 ### 🌐 Web
 
